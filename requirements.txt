@@ -1,0 +1,14 @@
+numpy
+pillow
+tqdm
+matplotlib
+opencv-python
+torch
+torchvision 
+openslide-python
+seaborn
+torchnet
+scikit-learn
+cmapy
+pickle5
+tensorboard

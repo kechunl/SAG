@@ -1,0 +1,13 @@
+
+*__pycache__*
+*.DS_store
+*.pyc
+.ipynb_checkpoints
+
+ScATNet/test_training_script.sh
+ScATNet/runs/
+ReMix/test_training_script.sh
+ReMix/sag_workdir/
+ReMix/datasets/
+
+LibMTL/
